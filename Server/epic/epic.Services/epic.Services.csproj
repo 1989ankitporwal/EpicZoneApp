@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\epic.Entities\epic.Entities.csproj" />
+    <ProjectReference Include="..\epic.Repositories\epic.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

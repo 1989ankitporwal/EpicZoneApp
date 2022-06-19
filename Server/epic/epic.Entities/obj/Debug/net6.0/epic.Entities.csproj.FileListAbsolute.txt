@@ -1,0 +1,12 @@
+F:\FL\Epic\Server\epic\epic.Entities\bin\Debug\net6.0\epic.Entities.deps.json
+F:\FL\Epic\Server\epic\epic.Entities\bin\Debug\net6.0\epic.Entities.dll
+F:\FL\Epic\Server\epic\epic.Entities\bin\Debug\net6.0\epic.Entities.pdb
+F:\FL\Epic\Server\epic\epic.Entities\obj\Debug\net6.0\epic.Entities.csproj.AssemblyReference.cache
+F:\FL\Epic\Server\epic\epic.Entities\obj\Debug\net6.0\epic.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\FL\Epic\Server\epic\epic.Entities\obj\Debug\net6.0\epic.Entities.AssemblyInfoInputs.cache
+F:\FL\Epic\Server\epic\epic.Entities\obj\Debug\net6.0\epic.Entities.AssemblyInfo.cs
+F:\FL\Epic\Server\epic\epic.Entities\obj\Debug\net6.0\epic.Entities.csproj.CoreCompileInputs.cache
+F:\FL\Epic\Server\epic\epic.Entities\obj\Debug\net6.0\epic.Entities.dll
+F:\FL\Epic\Server\epic\epic.Entities\obj\Debug\net6.0\refint\epic.Entities.dll
+F:\FL\Epic\Server\epic\epic.Entities\obj\Debug\net6.0\epic.Entities.pdb
+F:\FL\Epic\Server\epic\epic.Entities\obj\Debug\net6.0\ref\epic.Entities.dll

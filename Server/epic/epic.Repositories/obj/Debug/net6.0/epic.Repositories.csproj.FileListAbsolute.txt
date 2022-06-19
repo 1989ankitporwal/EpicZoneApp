@@ -1,0 +1,17 @@
+F:\FL\Epic\Server\epic\epic.Repositories\bin\Debug\net6.0\epic.Repositories.deps.json
+F:\FL\Epic\Server\epic\epic.Repositories\bin\Debug\net6.0\epic.Repositories.dll
+F:\FL\Epic\Server\epic\epic.Repositories\bin\Debug\net6.0\epic.Repositories.pdb
+F:\FL\Epic\Server\epic\epic.Repositories\obj\Debug\net6.0\epic.Repositories.csproj.AssemblyReference.cache
+F:\FL\Epic\Server\epic\epic.Repositories\obj\Debug\net6.0\epic.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\FL\Epic\Server\epic\epic.Repositories\obj\Debug\net6.0\epic.Repositories.AssemblyInfoInputs.cache
+F:\FL\Epic\Server\epic\epic.Repositories\obj\Debug\net6.0\epic.Repositories.AssemblyInfo.cs
+F:\FL\Epic\Server\epic\epic.Repositories\obj\Debug\net6.0\epic.Repositories.csproj.CoreCompileInputs.cache
+F:\FL\Epic\Server\epic\epic.Repositories\obj\Debug\net6.0\epic.Repositories.dll
+F:\FL\Epic\Server\epic\epic.Repositories\obj\Debug\net6.0\refint\epic.Repositories.dll
+F:\FL\Epic\Server\epic\epic.Repositories\obj\Debug\net6.0\epic.Repositories.pdb
+F:\FL\Epic\Server\epic\epic.Repositories\obj\Debug\net6.0\ref\epic.Repositories.dll
+F:\FL\Epic\Server\epic\epic.Repositories\bin\Debug\net6.0\epic.Repositories.runtimeconfig.json
+F:\FL\Epic\Server\epic\epic.Repositories\bin\Debug\net6.0\epic.Entities.dll
+F:\FL\Epic\Server\epic\epic.Repositories\bin\Debug\net6.0\epic.Entities.pdb
+F:\FL\Epic\Server\epic\epic.Repositories\obj\Debug\net6.0\epic.Repositories.csproj.CopyComplete
+F:\FL\Epic\Server\epic\epic.Repositories\obj\Debug\net6.0\epic.Repositories.genruntimeconfig.cache

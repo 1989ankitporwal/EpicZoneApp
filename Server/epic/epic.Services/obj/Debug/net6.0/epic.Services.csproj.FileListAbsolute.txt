@@ -1,0 +1,17 @@
+F:\FL\Epic\Server\epic\epic.Services\bin\Debug\net6.0\epic.Services.deps.json
+F:\FL\Epic\Server\epic\epic.Services\bin\Debug\net6.0\epic.Services.dll
+F:\FL\Epic\Server\epic\epic.Services\bin\Debug\net6.0\epic.Services.pdb
+F:\FL\Epic\Server\epic\epic.Services\obj\Debug\net6.0\epic.Services.csproj.AssemblyReference.cache
+F:\FL\Epic\Server\epic\epic.Services\obj\Debug\net6.0\epic.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\FL\Epic\Server\epic\epic.Services\obj\Debug\net6.0\epic.Services.AssemblyInfoInputs.cache
+F:\FL\Epic\Server\epic\epic.Services\obj\Debug\net6.0\epic.Services.AssemblyInfo.cs
+F:\FL\Epic\Server\epic\epic.Services\obj\Debug\net6.0\epic.Services.csproj.CoreCompileInputs.cache
+F:\FL\Epic\Server\epic\epic.Services\obj\Debug\net6.0\epic.Services.dll
+F:\FL\Epic\Server\epic\epic.Services\obj\Debug\net6.0\refint\epic.Services.dll
+F:\FL\Epic\Server\epic\epic.Services\obj\Debug\net6.0\epic.Services.pdb
+F:\FL\Epic\Server\epic\epic.Services\obj\Debug\net6.0\ref\epic.Services.dll
+F:\FL\Epic\Server\epic\epic.Services\bin\Debug\net6.0\epic.Entities.dll
+F:\FL\Epic\Server\epic\epic.Services\bin\Debug\net6.0\epic.Repositories.dll
+F:\FL\Epic\Server\epic\epic.Services\bin\Debug\net6.0\epic.Entities.pdb
+F:\FL\Epic\Server\epic\epic.Services\bin\Debug\net6.0\epic.Repositories.pdb
+F:\FL\Epic\Server\epic\epic.Services\obj\Debug\net6.0\epic.Services.csproj.CopyComplete
