@@ -1,0 +1,45 @@
+<!-- The Modal -->
+<div class="modal fade" id="myModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <h4 class="modal-title">Login</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+
+            <!-- Modal body -->
+            <div class="modal-body">
+                <div class="login-section">
+                    <div class="ctxtalign bottommargin-10">
+                        <img id="login-logo" style="width: 87px;" src="assets/images/logo.png" alt="Logo">
+                    </div>
+                    <h2 class="ctxtalign">Event Portal</h2>
+                    <p class="ctxtalign mb-4">Please sign in to get access.</p>
+                    <form #loginForm='ngForm' novalidate (ngSubmit)="Login(loginForm)">
+                        <div class="form-group">
+                            <label for="email">Email Address <span class="req-star">*</span></label>
+                            <input type="text" class="form-control" required #email="ngModel" ngModel
+                                name="email" placeholder="name@domain.com" value="">
+                            <span id="spnErrorEmail" class="error"></span>
+                        </div><!-- /.form-group -->
+                        <div class="form-group">
+                            <label for="password">Password <span class="req-star">*</span></label>
+                            <input type="password" class="form-control" #password="ngModel" ngModel required
+                                 name="password" placeholder="********" value="">
+                            <span id="spnErrorPassword" class="error"></span>
+                        </div><!-- /.form-group -->
+                        <div class="form-group ctxtalign">
+                            <button class="btn btnSubmit">Login &nbsp;&nbsp;<i class="fa fa-sign-in"></i></button>
+                        </div><!-- /.form-group -->
+                        <div class="ctxtalign">
+                            <a id="forgotPassword" href="javascript:;" data-dismiss="modal"
+                                onclick="openForgotPass();">Forgot Password?</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

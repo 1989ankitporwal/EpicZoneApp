@@ -1,0 +1,16 @@
+<div *ngIf="isNormalUser; else loggedOut">
+    <app-layout></app-layout>
+</div>
+<ng-template #loggedOut>
+    <div class="wrapper">
+        <router-outlet></router-outlet>
+    </div>
+    <!-- /.content-wrapper -->
+
+  <!-- Main Footer -->
+  <footer class="main-footer">
+    <!-- Default to the left -->
+    <strong>Copyright &copy; 2019 <a href="http://gstarinfotech.com/" target="_blank">Gstar Infotech </a>.</strong> All rights reserved.
+  </footer>
+</ng-template>
+<!-- <app-layout></app-layout> -->
